@@ -1,7 +1,7 @@
 public class index {
     public static void main(String[] args) {
         
-        System.out.println("nithu");
+        System.out.println("nitha");
     }
     
 }
